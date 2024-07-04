@@ -1,4 +1,4 @@
-# CasaOS-MessageBus
+# NextZen-MessageBus
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/IceWhaleTech/CasaOS-MessageBus.svg)](https://pkg.go.dev/github.com/IceWhaleTech/CasaOS-MessageBus) [![Go Report Card](https://goreportcard.com/badge/github.com/IceWhaleTech/CasaOS-MessageBus)](https://goreportcard.com/report/github.com/IceWhaleTech/CasaOS-MessageBus) [![goreleaser](https://github.com/IceWhaleTech/CasaOS-MessageBus/actions/workflows/release.yml/badge.svg)](https://github.com/IceWhaleTech/CasaOS-MessageBus/actions/workflows/release.yml) [![codecov](https://codecov.io/gh/IceWhaleTech/CasaOS-MessageBus/branch/main/graph/badge.svg?token=U4S4ZSZAL9)](https://codecov.io/gh/IceWhaleTech/CasaOS-MessageBus)
 
